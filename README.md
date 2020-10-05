@@ -30,5 +30,5 @@ Time       |  Langugages Used
 * [SmoreSoftware Discord bots (all deprecated)](https://github.com/smoresoftware)
 
 ## Contact Me
-<img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width=35 height=35> Discord: TJDoesCode#6088
+<img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width=35 height=35> Discord: TJDoesCode#6088<br>
 <img src="https://www.iconfinder.com/data/icons/email-51/48/25-512.png" width=35 height=35> Email: tjdoescode@gmail.com
