@@ -8,7 +8,7 @@ I write code for fun. Currently a student planning on studing Computer Science.
 ### My coding this week
 Time       |  Langugages Used
 :-------------------------:|:-------------------------:
-<img src="https://wakatime.com/share/@TJDoesCode/716dfe71-b59e-44e3-a818-5becfad8657e.svg" width=500 height=400>  |  <img src="https://wakatime.com/share/@TJDoesCode/ffd122d9-3eae-4f33-a6ad-da7dd7b85308.svg" width=500 height=400>
+<img src="https://wakatime.com/share/@TJDoesCode/716dfe71-b59e-44e3-a818-5becfad8657e.svg" width=600 height=300>  |  <img src="https://wakatime.com/share/@TJDoesCode/ffd122d9-3eae-4f33-a6ad-da7dd7b85308.svg" width=600 height=300>
 
 ## Languages
 * JavaScript <br> ![](https://progress-bar.dev/75?title=Proficiency&width=100)
@@ -30,5 +30,5 @@ Time       |  Langugages Used
 * [SmoreSoftware Discord bots (all deprecated)](https://github.com/smoresoftware)
 
 ## Contact Me
-![discord](https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png  =35x35) Discord: TJDoesCode#6088
-![email](https://www.iconfinder.com/data/icons/email-51/48/25-512.png =35x35) Email: tjdoescode@gmail.com
+<img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width=35 height=35> Discord: TJDoesCode#6088
+<img src="https://www.iconfinder.com/data/icons/email-51/48/25-512.png" width=35 height=35> Email: tjdoescode@gmail.com
