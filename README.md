@@ -5,10 +5,12 @@ I write code for fun. Currently a student planning on studing Computer Science.
 * Lifelong glasses wearer
 * Spaghetti code enthusiast
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TJDoesCode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TJDoesCode&theme=tokyonight)
+
+
 ### My coding this week
-Time       |  Langugages Used
-:-------------------------:|:-------------------------:
-<img src="https://wakatime.com/share/@TJDoesCode/716dfe71-b59e-44e3-a818-5becfad8657e.svg" width=600 height=300>  |  <img src="https://wakatime.com/share/@TJDoesCode/ffd122d9-3eae-4f33-a6ad-da7dd7b85308.svg" width=600 height=300>
+<img src="https://wakatime.com/share/@TJDoesCode/716dfe71-b59e-44e3-a818-5becfad8657e.svg" width=600 height=300>
 
 ## Languages
 * JavaScript <br> ![](https://progress-bar.dev/75?title=Proficiency&width=100)
