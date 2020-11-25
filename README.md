@@ -1,5 +1,5 @@
 # Hey there, I'm TJ
-I write code for fun. Currently a student planning on studing Computer Science.
+I write code for fun. Currently a student planning on studying Computer Science.
 * Full-stack web developer
 * Aspiring UI or Front-End engineer
 * Lifelong glasses wearer
