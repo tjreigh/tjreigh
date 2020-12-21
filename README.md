@@ -1,7 +1,7 @@
 # Hey there, I'm TJ
-I write code for fun. Currently a student planning on studying Computer Science.
+I write code for fun. Currently a student planning on studying Computer Science in college.
 * Full-stack web developer
-* Aspiring UI or Front-End engineer
+* Aspiring UI/Front-End or Embedded/Systems Software Engineer
 * Lifelong glasses wearer
 * Spaghetti code enthusiast
 
