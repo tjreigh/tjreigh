@@ -8,8 +8,8 @@
   </ul>
 </div>
 
-🖥️ Software Engineer<br>
-💼 Owner of Treforge Software LLC <br>
+🖥️ Software Engineer freelancing in DFW<br>
+💼 Owner of [Treforge Software LLC](https://treforgesoftware.com) <br>
 🎓 BA in History, minor in Computer Science (UT Arlington '25) <br>
 📜 Applying a historian's attention to detail to modern software <br>
 🌱 Director of MOBI BYTE, a student-run nonprofit making tech accessible for everyone <br>
