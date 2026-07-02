@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-🖥️ Software Engineering Lead at GoVivid Co <br>
+🖥️ Software Engineer<br>
 💼 Owner of Treforge Software LLC <br>
 🎓 BA in History, minor in Computer Science (UT Arlington '25) <br>
 📜 Applying a historian's attention to detail to modern software <br>
